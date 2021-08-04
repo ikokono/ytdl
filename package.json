@@ -1,0 +1,34 @@
+{
+  "name": "ytdl-devin",
+  "version": "0.0.1",
+  "description": "youtube downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devinadrian/ytdl.git"
+  },
+  "keywords": [
+    "youtube",
+    "downloader",
+    "youtube",
+    "downloader",
+    "terminal",
+    "ytdl-core",
+    "ytdlcore"
+  ],
+  "author": "devin adrian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devinadrian/ytdl/issues"
+  },
+  "homepage": "https://github.com/devinadrian/ytdl#readme",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "youtube-search-lib": "^2.0.0",
+    "ytdl-core": "^4.9.0",
+    "ytly": "^1.0.6"
+  }
+}
